@@ -34,3 +34,9 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+### Açıklamalar:
+
+- **id=1** ve **id=3000**'i örnek olarak belirtilen URL'lerde kullanarak projenin nasıl çalıştığını gösterdim.
+- Kullanıcılar `id` parametresini değiştirdiğinde(2,3,4 yazınca sayfa sola kayıyor), sayfa farklı verilerle render edilecektir (API'den alınan verilerle). 
+
